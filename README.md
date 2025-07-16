@@ -64,7 +64,7 @@ python app.py
 ## Key Technical Insights
 - **Seasonality & Trend**: Strong 12‑month cycle + upward linear trend
 - **Model Chosen**: ARIMA(2,1,2)(0,1,0)[12] based on AIC/BIC
-- **Accuracy**: MAPE < 3%, residuals behave as white noise
+- **Model Forcast Accuracy**: 84% RMSP < 16%, residuals behave as white noise
 
 ## Business Value
 - Optimizes airline staffing & resource allocation
